@@ -1,0 +1,3 @@
+/home/sk/CG-Summer-2023/Assignment_1/build/CMakeFiles/assignment1.dir
+/home/sk/CG-Summer-2023/Assignment_1/build/CMakeFiles/edit_cache.dir
+/home/sk/CG-Summer-2023/Assignment_1/build/CMakeFiles/rebuild_cache.dir
